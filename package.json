@@ -8,7 +8,8 @@
     "email": "nathan@storydesk.com"
   },
   "dependencies": {
-    "cli-color": "0.3.2"
+    "cli-color": "0.3.2",
+    "round10": "1.0.3"
   },
   "repository": {
     "type": "git",
